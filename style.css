@@ -1,0 +1,66 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 100px;
+    line-height: 1.4;
+}
+section{
+    display: flex;
+}
+img{
+    width: 80%;
+}
+h1{
+    font-size: 50PX;
+}
+h2{
+    font-size: 40px;
+}
+.half-wight{
+    width: 50%;
+}
+a{
+    text-decoration: none;
+    background-color:tomato;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.about{
+    line-height: 1.8;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+    position: left;
+}
+.experience{
+
+  
+}
+#ui-design{
+    max-width: 25%;
+    margin-left: px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px 20px lightgray;
+    float: left;
+    border: 1px solid;
+}
+#app-development{
+    max-width: 25%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px 20px lightgray;
+    border: 1px solid;
+}
+#web-development{
+    max-width: 25%;
+    float: right;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 20px 20px 20px 20px lightgray;
+    border: 1px solid;
+}
